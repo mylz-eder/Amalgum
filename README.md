@@ -1,0 +1,2 @@
+# Amalgum
+Amalgum project
